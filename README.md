@@ -1,2 +1,2 @@
 # redes
-proyecto redes
+proyecto
